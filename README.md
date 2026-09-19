@@ -1,4 +1,4 @@
-# 💖 Flower give
+# 💖 Flower gift
 
 A romantic, interactive web experience built with React, Vite, TypeScript, and motion-driven animations. The app opens with a glowing "I LOVE YOU" intro, transitions into a blooming flower animation, and lets you personalize the message for someone special.
 
