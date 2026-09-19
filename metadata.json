@@ -1,0 +1,6 @@
+{
+  "name": "Romantic Flower Animation",
+  "description": "A romantic interactive experience opening with an elegant I LOVE YOU glowing animation and smoothly transitioning into blossoming flowers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
